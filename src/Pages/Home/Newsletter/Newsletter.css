@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    margin:0;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+#newsletter{
+	padding: 15px;
+	color: #fff;
+	background: #4f5f69;
+	border-bottom: #e8491d 3px solid;
+}
+
+#newsletter h1{
+	float: left;
+    padding-top: 8px;
+}
+
+#newsletter form{
+	float: right;
+	margin-top: 15px;
+    
+}
+
+#newsletter input[type="email"]{
+	padding: 4px;
+	height: 38px;
+	width: 250px;
+}
+
+.button-1{
+	height: 38px;
+	background: #e8491d;
+	border:none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #fff;
+}
