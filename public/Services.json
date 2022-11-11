@@ -1,10 +1,11 @@
-[
+
+    [
     {
         "service_id": "01",
         "title": "Continental Breakfast",
         "img":"https://i.ibb.co/rkdh912/Continental-Breakfast-3.jpg", 
         "price": "200",
-        "description": "continental breakfast will have some combination of fruit, muffins, bagels, cereal, bread, croissants, pastries, waffles, yogurt, juice, milk, tea, and fresh coffee. Additionally, there will be butter, jam/jelly, cream, and sugar available. You can see the cereal, milk, fruit, and coffee.",
+        "description": "continental breakfast will have some combination of fruit, muffins, bagels, cereal, bread, croissants, pastries, waffles, yogurt, juice, milk, tea, and fresh coffee. Additionally, there will be butter, jam/jelly, cream, and sugar available. You can see the cereal, milk, fruit, and coffee."
         
     },
     {
@@ -47,5 +48,5 @@
         "description": "Catering Services of different Ocassions like Wedding, Birthday, Home party, Office Party, Engagement Party, Eniversery Party or any kind of parties. we provide special Catering services"
         
     }
-    
 ]
+    
