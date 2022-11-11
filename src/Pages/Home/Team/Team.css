@@ -23,3 +23,17 @@
     width: 315px;
     height: 300px
 }
+
+/* Media Quaries */
+@media(max-width: 768px){
+	
+	.box,
+	.team .box
+{
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+
+	
+}
