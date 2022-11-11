@@ -1,6 +1,7 @@
 import React from 'react';
 import Newsletter from '../Newsletter/Newsletter';
 import Showcase from '../Showcase/Showcase';
+import Team from '../Team/Team';
 
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
         <div>
            <Showcase></Showcase>
            <Newsletter></Newsletter>
+           <Team></Team>
         
         </div>
     );
