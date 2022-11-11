@@ -15,7 +15,7 @@ const Header = () => {
       <div className='bg-current grid place-items-center'>
         <Link className=""><img src={logo} alt="" /></Link>
       </div>
-      <div className="navbar h-20 mb-1 pt-3  bg-stone-500 text-black">
+      <div className="navbar h-20 mb-1 pt-3  bg-stone-400 text-black">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">

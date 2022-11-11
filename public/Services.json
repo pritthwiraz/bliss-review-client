@@ -1,0 +1,51 @@
+[
+    {
+        "service_id": "01",
+        "title": "Continental Breakfast",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "200",
+        "description": "continental breakfast will have some combination of fruit, muffins, bagels, cereal, bread, croissants, pastries, waffles, yogurt, juice, milk, tea, and fresh coffee. Additionally, there will be butter, jam/jelly, cream, and sugar available. You can see the cereal, milk, fruit, and coffee.",
+        
+    },
+    {
+        "service_id": "02",
+        "title": "Bangladeshi Breakfast",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "150",
+        "description": "Bangladeshi breakfast consists of Roti (flat bread), Nun Roti,  Paratha with Sabji (mix of cooked vegetables) and Dahl (lentil curry) Eggs Omlet or Boiled Eggs."
+        
+    },
+    {
+        "service_id": "03",
+        "title": "Traditional wedding food",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "350",
+        "description": "Special Polau Rice with Kabab, Chicken Roast, Special Salad, Jorda Rice or Firni(Pudding),Mutton Rejala, Egg Korma and Borhani-Wedding Special/Cold Drinks"
+        
+    },
+    {
+        "service_id": "04",
+        "title": "Traditional Bangladeshi Lunch",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "350",
+        "description": "White Steamed Rice with Thick Dal, Dal Fry, Potato Bharta, Begun Bharta,Shrimp Bharta, Shutki Bharta, Taki Fish Bharta, Fried Fish, Egg Bharta, Korola Bharta "
+        
+    },
+    {
+        "service_id": "05",
+        "title": "Biriyani Packages",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "500",
+        "description": "4 Types of Most Popular Biriyani included in this package. Kachi Biriyani(Chinigura Chal), Special Kachi Biriyani(Basmati), Morog Polao with Chicken Roast, Special Chicken Vhuna Kichuri "
+        
+    },
+    {
+        "service_id": "06",
+        "title": "Catering Services-On Demand",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "500",
+        "description": "Catering Services of different Ocassions like Wedding, Birthday, Home party, Office Party, Engagement Party, Eniversery Party or any kind of parties. we provide special Catering services"
+        
+    }
+    
+]
