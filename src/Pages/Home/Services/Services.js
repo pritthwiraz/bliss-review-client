@@ -5,7 +5,7 @@ const Services = () => {
     const [services, setServices] = useState([]);
 
     useEffect( () =>{
-        fetch('services.json')
+        fetch('http://localhost:5000/services')
         .then(res => res.json())
         .then(data => setServices(data))
 
@@ -17,7 +17,7 @@ const Services = () => {
             <h1 className='text-3xl text-center font-semibold text-gray-900'>Premier Food Services From our Cloud Kitchen</h1>
             <p className='text-xl font-semibold text-center'>Quality Comes First is the Bliss Cloud Kitchen's Motto</p>
             </div>
-            <div className='grid grid-cols-1 lg:grid-cols-1 gap-5 w-9/12 container mx-auto'>
+            <div className='grid lg:grid-cols-1 gap-5 w-9/12 container mx-auto'>
                 {
                     services.map(service => <ServicesSection
                         key={service.service_id}
