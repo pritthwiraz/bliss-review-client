@@ -18,7 +18,7 @@ const Team = () => {
 				<p>Tomi Mia</p>
 			</div>
 			<div className='box'>
-            <img src={chef3} alt='' />
+            			<img src={chef3} alt='' />
 				<p>Peter Gomez</p>
 			</div>
 		</div>
